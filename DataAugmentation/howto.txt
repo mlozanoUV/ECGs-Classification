@@ -1,0 +1,1 @@
+Featured vs Raw signal scenario with Data Augmentation for the Featured based approach 
